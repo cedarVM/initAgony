@@ -7,7 +7,7 @@
    <summary><samp>&#9776; Details</samp></summary>
    <p align="center">
      <br>
-	<img alt="Bash" src="https://img.shields.io/badge/-Shells-4EAA25?style=flat&logo=gnubash&logoColor=white"><br>
+	<img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"><br>
 	<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 	<img alt="Linux" src="https://img.shields.io/badge/-LIN-FCC624?style=flat&logo=linux&logoColor=black">
   <br>
