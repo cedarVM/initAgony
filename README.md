@@ -13,7 +13,7 @@
   <br>
   <a href="https://github.com/xleph/xleph"><img src="https://github-readme-stats.vercel.app/api?username=xleph&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=react" alt="name?"></a>
   <br>
-     <a href="https://github.com/xleph" target="_blank"><img alt="jack-mil" src="https://badges.pufler.dev/visits/jack-mil/jack-mil?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat"/></a>
+     <a href="https://github.com/xleph" target="_blank"><img alt="xleph" src="https://badges.pufler.dev/visits/xleph/xleph?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat"/></a>
      <a href="https://github.com/xleph/xleph" target="_blank"><img alt="Updated" src="https://img.shields.io/github/last-commit/xleph/xleph?label=Profile%20Updated&style=flat"></a>
   </samp>
   </p>
